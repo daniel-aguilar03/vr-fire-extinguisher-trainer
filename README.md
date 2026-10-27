@@ -2,9 +2,9 @@
 
 A **WebXR** interaction prototype for practising a guided fire-response sequence. Two controllers operate constrained mechanical parts, hold an extinguisher and aim a separate nozzle.
 
-[Open the live demo](https://daniel-aguilar03.github.io/vr-fire-extinguisher-trainer/) · [Watch the walkthrough](https://youtu.be/vSC8ISrWH2g)
+[Open the live demo](https://daniel-aguilar03.github.io/vr-fire-extinguisher-trainer/) · [Watch the walkthrough](https://youtu.be/MzX0x555P3k)
 
-[![Fire extinguisher walkthrough](https://img.youtube.com/vi/vSC8ISrWH2g/hqdefault.jpg)](https://youtu.be/vSC8ISrWH2g)
+[![Fire extinguisher walkthrough](https://img.youtube.com/vi/MzX0x555P3k/hqdefault.jpg)](https://youtu.be/MzX0x555P3k)
 
 > Educational interaction prototype only—not emergency certification or a substitute for workplace training. The help call is simulated and never contacts emergency services.
 
